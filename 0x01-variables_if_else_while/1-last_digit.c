@@ -2,8 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - stores last digit of the number in variable n
- * Return : 0
+ * main - Entry point
+ * The program stores the last digit of a random number
+ * return : 0
  */
 
 int main(void)

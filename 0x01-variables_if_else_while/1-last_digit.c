@@ -4,7 +4,7 @@
 /**
  * main - Entry point
  * The program stores the last digit of a random number
- * return : 0
+ * Return : 0
  */
 
 int main(void)

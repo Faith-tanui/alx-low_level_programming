@@ -8,8 +8,7 @@ int main(void)
 {
 	int num1;
 	int num2;
-	char ch = ',';
-	char space = ' ';
+
 
 	for (num1 = 0; num1 <= 8; num1++)
 	{
@@ -24,9 +23,9 @@ int main(void)
 
 				putchar(num2 + '0');
 
-				putchar(ch);
+				putchar(',');
 
-				putchar(space);
+				putchar(' ');
 
 
 			}
